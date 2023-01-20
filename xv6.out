@@ -1,0 +1,7 @@
+
+xv6 kernel is booting
+
+virtio disk init 0
+init: starting sh
+$ sleep 10
+qemu-system-riscv64: terminating on signal 15 from pid 22599 (make)
