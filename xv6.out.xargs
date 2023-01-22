@@ -1,0 +1,11 @@
+
+xv6 kernel is booting
+
+virtio disk init 0
+init: starting sh
+$ sh < xargstest.sh
+$ echo DONE
+$ $ $ $ $ exec xargs failed
+usertrap(): unexpected scause 0x000000000000000f (store/AMO page fault) pid=10
+            sepc=0x0000000000000942 stval=0x0000000000001e48
+$ $ DONE

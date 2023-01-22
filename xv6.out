@@ -3,5 +3,14 @@ xv6 kernel is booting
 
 virtio disk init 0
 init: starting sh
-$ sleep 10
-qemu-system-riscv64: terminating on signal 15 from pid 22599 (make)
+$ mkdir ORpjr5XL
+$ echo > ORpjr5XL/HhgG302E
+$ mkdir ORpjr5XL/YLK3sq58
+$ echo > ORpjr5XL/YLK3sq58/HhgG302E
+$ mkdir dMOawRFk
+$ echo > dMOawRFk/HhgG302E
+$ find . HhgG302E
+./ORpjr5XL/HhgG302E
+./ORpjr5XL/YLK3sq58/HhgG302E
+./dMOawRFk/HhgG302E
+$ qemu-system-riscv64: terminating on signal 15 from pid 35324 (make)
